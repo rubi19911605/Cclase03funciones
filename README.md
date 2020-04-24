@@ -31,7 +31,7 @@ a- git clone (unico)
 		iteracion:
 
 b- git add .
-c- git commit -m "mensaje"
+c- git commit -m "mensaje" 
 
 		Solo pra subir a la web
 
