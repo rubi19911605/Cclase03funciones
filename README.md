@@ -1,4 +1,4 @@
-# Villegas Octavio
+# Barragán Mejía Rubiela
 # Tutorial de Git + GitHub
 
 --La primera vez:
