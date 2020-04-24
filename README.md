@@ -1,25 +1,25 @@
-# Barragán Mejía Rubiela 
+# Barragán Mejia Rubiela 
 # Tutorial de Git + GitHub
 
---La primera vez:
+--La primera vez: 
 1- creo la carpeta contenedora de repositorios
 
-2- ingreso a la carpeta por consola 
+2- ingreso a la carpeta por consola
 
-3- por consola clono el repositorio
-		git clone https://github.com/octaviovillegas/Cclase03funciones.git
-		git clone miRepo
+3- por consola clono el repositorio 
+git clone https://github.com/rubi19911605/Cclase03funciones.git git clone miRepo
 
-4- hago los cambios(m,b,a);7
+4- hago los cambios
+(modificar,borrar,agregar);7
 
-5- agregar cambios
-		git add .
+5- agregar cambios 
+git add .
 
-6- comitear cambios
-		git commit -m "mensaje del cambio"
+6- comitear cambios 
+git commit -m "mensaje del cambio"
 
-7- subir al repositorio web
-		git push
+7- subir al repositorio web 
+git push
 
 
 
